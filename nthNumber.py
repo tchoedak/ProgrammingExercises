@@ -22,5 +22,5 @@ def nthNumber(N):
             next
         else:
             Nlist.append(i)
-    print Nlist[len(testlist)-1]
+    print Nlist[len(Nlist)-1]
             
