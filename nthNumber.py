@@ -9,7 +9,6 @@ However if the number is a multiple of both 4 and 7 then the number is not skipp
 Define a function which taken a number n as input and returns the nth number which will be spoken. 
 nthNumber(10) = 15 (the order of numbers spoken is 1,2,3,5,6,9,10,11,13,15)
 
-
 @author: tenz
 """
 
