@@ -100,4 +100,3 @@ def is_anagram4(s1,s2):
             stillOK = False
 
     return stillOK
-
